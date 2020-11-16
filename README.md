@@ -10,7 +10,7 @@
 | ----------- | ------------------- |
 | Motherboard | AsRock H410M-ITX/AC |
 | CPU         | Intel Core i3-10100 |
-| RAM         | Kingback 8G 2400 MHz |
+| RAM         | Team 8G 2400 MHz    |
 | Hard Disk   | Kingback 260G SSD   |
 | GPU         | AMD Radeon RX560 4G |
 | Sound Card  | Realtek ALC887      |
