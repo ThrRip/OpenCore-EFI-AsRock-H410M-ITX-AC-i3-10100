@@ -20,10 +20,11 @@
 
 ## Problems still exist
 - ~~Meet `AppleUSBXHCIPort::resetAndCreateDevice: failed to start device` during booting with `-v`~~
-> Put `USBPorts.kext` and `XHCI-unsupported.kext` into `/EFI/OC/kexts` and write these to kexts into `config.plist`.
+  > Put `USBPorts.kext` and `XHCI-unsupported.kext` into `/EFI/OC/kexts` and write these to kexts into `config.plist`.
 - ~~Sound Card failed to drive~~
-> AppleALC.kext with layout-id 12 is OK.
-- WLAN failed to drive
+  > AppleALC.kext with layout-id 12 is OK.
+- ~~WLAN failed to drive~~
+  > Now we can use Airportitlwm.kext to make almost every Intel WLAN Card work. See [here](https://openintelwireless.github.io/itlwm/Installation.html#airportitlwm) for more information.
 - Bluetooth connection is not stable
 - Can't turn off the power if you shutdown in macOS
 
