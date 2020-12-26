@@ -25,7 +25,8 @@
   > AppleALC.kext with layout-id 12 is OK.
 - ~~WLAN failed to drive~~
   > Now we can use Airportitlwm.kext to make almost every Intel WLAN Card work. See [here](https://openintelwireless.github.io/itlwm/Installation.html#airportitlwm) for more information.
-- Bluetooth connection is not stable
+- ~~Bluetooth connection is not stable~~
+  > Resolved after adding `IntelBluetoothFirmware.kext` and `IntelBluetoothInjector.kext`.
 - Can't turn off the power if you shutdown in macOS
 
 ## Author
