@@ -32,3 +32,6 @@
 ## Author
 ThrRip  
 Website (Chinese only): [ThrRip's Personal Homepage](https://thrrip.space)
+
+## Reminder
+Because I don't have much time, this project has been archived on January 7, 2021 (UTC+8), and will not be maintained after that.
